@@ -1,7 +1,8 @@
 
  ## Greetings People 👋
- Greetings Everyone, You Can Call Me Nikita
-- 🔭 I'm a Security Analyst, Operational Security Specialist, and Developer.
+ Greetings Lurkers, You Can Call Me Niko.
+ If anyone has any questions, feel free to email me.
+- 🔭 I'm a Security Analyst, Private Investigator, Privacy Activist, Blackbelt In Taekwondo, and Aircadet for +4 Years. 
 - 🌐 I can Code in C, C++, C#, Python, JavaScript.
 - 🌱 I’m currently working on getting my ECSA, and CEH+ Masters Certification.
 - 💬 Ask me about Behavioural Psychology, Reconnaissance, Pentesting and Operational Security.

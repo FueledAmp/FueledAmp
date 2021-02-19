@@ -8,4 +8,4 @@
 - 📫 The best way to reach me is through [Discord](https://discord.gg/XhTFwBpm) or [Email](mailto://therealrussianspy@protonmail.com).
 - ⚡ Interesting fact: My career in security, began when I started off hunting child predators at the age of 11.
 
-[![Years Badge](https://badges.pufler.dev/years/FueledAmp)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/FueledAmp)](https://badges.pufler.dev/years/{FueledAmp})

@@ -2,7 +2,7 @@
  ## Greetings People 👋
  Greetings Lurkers, You Can Call Me Niko.
  If anyone has any questions, feel free to email me.
-- 🔭 I'm a Security Analyst, Private Investigator, Privacy Activist, Expert In Taekwondo, and was a Aircadet for years. 
+- 🔭 I'm a Security Analyst, Private Investigator, Privacy Activist, Red Team Fanatic, and Behavioural Psychology is my greatist tool for reconnaissance.
 - 🌐 I can Code in C, C++, C#, Python, JavaScript.
 - 🌱 I’m currently working on getting my ECSA, and CEH+ Masters Certification.
 - 💬 Ask me about Behavioural Psychology, Reconnaissance, Pentesting and Operational Security.

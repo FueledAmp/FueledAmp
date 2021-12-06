@@ -1,5 +1,5 @@
  ## Greetings People 👋
- Greetings Lurkers, You Can Call Me Niko.
+ Greetings Lurkers, You Can Call Me Russia.
  If anyone has any questions, feel free to email me.
 - 🔭 Aspire to be a jack of all trades...
 - 💬 Ask me about Behavioural Psychology, Reconnaissance, and Operational Security.
